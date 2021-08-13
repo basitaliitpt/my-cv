@@ -1,0 +1,23 @@
+h2 {
+  color:#71c9ce;
+}
+body{
+  background-color:#e3fdfd;
+  color:#364f6b;
+
+}
+h1{
+  color:#11999e;
+}
+hr{
+border-width: 10px 0 0 0;
+  border-style: dotted;
+  color: #f5f5f5;
+  width:10%;
+}
+
+
+.star{
+  color:#EB9A0D;
+  font-size: 28px;
+}
